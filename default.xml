@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="think-tanks" fetch="." review="https://github.com/rockchip-linux/"/>
+	<remote name="origin" fetch="." />
 
-	<default remote="think-tanks" revision="master" sync-j="4"/>
+	<default remote="origin" revision="master" sync-j="4"/>
 
 	<project name="test1" path="test1" revision="f2ebb5f9fc1ed0b6e0907632e340977de1dc771a"/>
 
